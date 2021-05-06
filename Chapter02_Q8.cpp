@@ -1,9 +1,3 @@
-/* Chapter02_Q8.cpp
-Duarte, Cameryn
-CSC119-142 Introduction to Programming C++ Spring 2021
-02/02/2021
-This program calculates the number of widgets stacked on a pallet.
-*/
 //tells the program to include iostream header file because it contains input and output functions
 #include <iostream> 
 //used to differentiate similar functions
